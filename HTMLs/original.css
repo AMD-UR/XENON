@@ -1,0 +1,50 @@
+*{
+margin: 0px;
+padding: 0px;
+}
+
+
+
+
+.hed{
+    margin: 0px;
+    padding: 40px;
+    width: auto;
+    height: auto;
+    
+}
+
+
+body {
+    direction:ltr;
+      font-size: 10px;
+    text-align:center;
+    color: black;
+    line-height: 30px;
+    font-family:serif;
+    text-decoration: none;
+    }
+    
+  
+       nav #bkmenu {
+        background-color: white;
+        position: fixed;
+        font-size: 13px;
+        z-index: 999;
+       }
+       nav #bkmenu li {
+        display: inline-block;
+
+
+       }
+       nav #bkmenu a{
+        text-decoration: none;
+        margin: 15px;
+        color: black;
+       }
+       nav #bkmenu li:hover{
+        background-color: red;
+
+       }
+
+   
