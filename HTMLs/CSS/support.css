@@ -1,0 +1,50 @@
+*{
+    box-sizing: border-box;
+    }
+    body{
+        background-image: url(picture/blk\ 1.jpg);
+        color: #fff;
+    }
+    .container{
+    width: 800px;
+    }
+    input,select,textarea{
+    width: 100%;
+    margin: 0 0 10px 0;
+    padding: 10px;
+    }
+    #btn1{
+    background-color: rgb(190, 20, 20);
+    color: #fff;
+    width: 100%;
+    }
+    
+    #titr{
+        text-align: center;
+        font-family:cursive;
+        color:rgb(247, 47, 47);
+    }
+
+
+
+    nav .bkmenu {
+        background-color: white;
+        position: fixed;
+        font-size: 15px;
+        z-index: 999;
+       }
+       nav .bkmenu li {
+        display: inline-block;
+    
+    
+       }
+       nav .bkmenu a{
+        text-decoration: none;
+        margin: 10px;
+        color: black;
+       }
+       nav .bkmenu li:hover{
+        background-color: red;
+    
+       }
+       

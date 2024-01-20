@@ -1,0 +1,86 @@
+*{
+   
+    color: azure;
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+    text-decoration: none;
+}
+
+
+body{
+    background-image: url(picture/blk\ 1.jpg)
+}
+
+
+#name-game{
+    color: brown;
+}
+
+
+#click-download:hover{
+opacity: 60%;
+}
+
+
+.line{
+    font-weight: bold;
+    color: red;
+}
+
+
+#titr{
+    background-color: black;
+    color: red;
+    font-family: castellar;
+    font-size: 35px;
+}
+
+
+div{
+text-align: center;
+}
+
+
+img{
+    margin: 30px;
+}
+
+
+#titr-up{
+
+color: red;
+font-family: monospace;
+font-size: 30px;
+
+}
+
+
+#LOGO{
+    width:90%;
+}
+
+
+
+nav .bkmenu {
+    background-color: white;
+    position: fixed;
+    font-size: 15px;
+    z-index: 999;
+   }
+   nav .bkmenu li {
+    display: inline-block;
+
+
+   }
+   nav .bkmenu a{
+    text-decoration: none;
+    margin: 10px;
+    color: black;
+   }
+   nav .bkmenu li:hover{
+    background-color: red;
+
+   }
+
+

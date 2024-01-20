@@ -1,0 +1,86 @@
+*{
+   
+    color: azure;
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+    text-decoration: none;
+}
+body{
+   
+    background-image: url(picture/blk\ 1.jpg);
+    text-align: center;
+
+}
+
+#Arm{
+    font-size: 30px;
+    color: red;
+}
+
+nav .bkmenu {
+    background-color: white;
+    position: fixed;
+    font-size: 15px;
+    z-index: 999;
+   }
+   nav .bkmenu li {
+    display: inline-block;
+
+
+   }
+   nav .bkmenu a{
+    text-decoration: none;
+    margin: 10px;
+    color: black;
+   }
+   nav .bkmenu li:hover{
+    background-color: red;
+
+   }
+
+   img{
+    margin-top: 40px;
+    margin-bottom: 30px;
+    width: 70%;
+   }
+
+
+    div a li{
+        background-color: brown;
+        margin: 5px;
+        height: 33px;
+        text-align: center;
+
+        }
+
+        div a li:hover{
+            background-color: rgb(97, 19, 19);
+    
+            }
+
+        .container{
+            background-color:rgba(74, 74, 74, 0.218);
+            border-radius: 9px;
+  
+        }
+#info{
+    font-size: 15px;
+    margin-bottom: 30px;
+    
+}
+
+#line{
+    color: brown;
+    
+}
+#d-now{
+    color: red;
+    font-size: 20px;
+}
+
+#value{
+    font-size: 9px;
+    color: rgba(240, 255, 255, 0.633);
+}
+
